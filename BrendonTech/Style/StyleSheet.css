@@ -1,0 +1,158 @@
+﻿body {
+    margin:0;
+}
+
+
+h1 {
+    color: ghostwhite;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    border-color: white;
+    text-shadow: revert;
+    font-size: 21px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h2 {
+    color: ghostwhite;
+    text-align: left;
+    border-color: black;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h4 {
+    color: ghostwhite;
+    text-align: center;
+    border-color: black;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p {
+    color: ghostwhite;
+    text-align: center;
+    border-color: black;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    font-size: 16px;
+}
+
+.white {
+    color: white;
+    border-color: white;
+    border-color: black;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    text-align: left;
+    font-size: 26px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif font-size: 16px;
+}
+
+.container {
+    margin:auto;
+}
+
+
+
+.center {
+    width: 100%;
+    margin: auto;
+}
+.blue{
+      background-color:#0094ff;
+      color:#fff
+}
+
+
+.gray {
+    background-color: #808080;
+}
+
+#logo {
+    margin-left:10px;
+    height: 50px;
+    width: auto;
+}
+
+.box-1 {
+    background-image: url('../images/back.jpg');
+    background-size: 100%;
+    margin-bottom: 25px
+}
+
+.container-2 {
+    margin: auto;
+    width: 60%;
+}
+
+.box {
+    border: 1px #808080 solid;
+    padding: 10px;
+    border-radius: 15px;
+    background-size: 50%;
+    background-color: #fbfbfb;
+    box-sizing: border-box;
+    margin-bottom: 25px
+}
+
+
+
+.box-2 {
+    border: 1px #e9e8ce solid;
+    padding: 10px;
+    border-radius: 15px;
+    background-size: 50%;
+    background-image: url('../images/tree.jpg');
+    box-sizing: border-box;
+    margin-bottom: 25px
+}
+
+.box-3 {
+    border: 1px #e9e8ce solid;
+    padding: 10px;
+    border-radius: 15px;
+    background-size: 50%;
+    background-image: url('../images/setup.jpg');
+    box-sizing: border-box;
+    margin-bottom: 95px
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: #0094ff;
+    border: 1px groove white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+
+dl {
+
+    margin-left: 10px;
+    width: 50%;
+    padding: 5px;
+    background-color: #0094ff;
+    border: 1px groove white;
+    border-radius: 15px;
+
+}
+
+
+table, th, td {
+    margin-left: 360px;
+    width: 50%;
+    height: 100%;
+    background-color: #0094ff;
+    border: 1px groove white;
+    border-radius: 15px;
+    padding: 20px;
+}
